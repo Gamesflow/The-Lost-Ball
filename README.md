@@ -8,8 +8,8 @@ A 3D runner game inspired from Subway Surfers and built on ThreeJS.
 |Key| Controls |
 |--|--|
 | Spacebar/Up arrow | Jump |
-| Right Arrow | Go Right |
-| Left Arrow | Go left |
+| D/Right Arrow | Go Right |
+| A/Left Arrow | Go left |
 
 ## Screenshot
 
